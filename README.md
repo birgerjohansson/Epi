@@ -1,5 +1,7 @@
 # Epi: An Open Humanoid Platform
 
+![alt text](https://raw.githubusercontent.com/birgerjohansson/Epi/master/Images/two_epis.jpeg?token=AAfTrwZP7uF-XITDuQFLVuZMyOokhNm_ks5ciLZZwA%3D%3D "Epis")
+
 Epi is a humanoid robot developed by LUCS Robotics Group. It was designed to be used in experiments in developmental robotics and has proportions to give a childlike impression while still being decidedly robotic.
 
 The robot head has two degrees of freedom in the neck and each eye can independently move laterally. There is a camera in each eye to make stereo vision possible.
@@ -12,7 +14,6 @@ The control system for Epi is based on neurophysiological data and is implemente
 
 There is also a smaller version of Epi consisting of a head on a torso. In addition to the motions possible in the earlier model of Epi, the irises of the eyes can change color and the pupils can dilate and contract. There also a grid of LEDs that resembles a mouth that can be animated by changing colour and intensity
 
-![alt text](http://www.lucs.lu.se/wp-content/uploads/2018/02/epi_heads.jpg "Epis")
-
+![alt text](https://raw.githubusercontent.com/birgerjohansson/Epi/master/Images/two_torso_epis.jpeg?token=AAfTr12qlg99_Wr4iwTYWsouWiQrgEw7ks5ciLWQwA%3D%3D "Epis")
 
 There are currently five versions of Epi in the robotics lab, one of which is mounted on a mobile platform.
