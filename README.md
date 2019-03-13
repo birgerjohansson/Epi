@@ -23,3 +23,7 @@ Links:
 https://www.instagram.com/epitherobot/
 
 https://www.lucs.lu.se/epi
+
+http://ikaros-project.org
+
+https://github.com/ikaros-project/ikaros
