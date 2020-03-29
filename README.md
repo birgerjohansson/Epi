@@ -20,7 +20,7 @@ There are currently five versions of Epi in the robotics lab, one of which is mo
 
 Links:
 
-https://www.instagram.com/epitherobot/
+https://www.instagram.com/epi_robot
 
 https://www.lucs.lu.se/epi
 
