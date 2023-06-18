@@ -16,8 +16,6 @@ There is also a smaller version of Epi consisting of a head on a torso. In addit
 
 ![Epis](https://github.com/birgerjohansson/Epi/raw/master/Images/EpiTorsos.jpg)
 
-There are currently five versions of Epi in the robotics lab, one of which is mounted on a mobile platform.
-
 Links:
 
 https://www.instagram.com/epi_robot
